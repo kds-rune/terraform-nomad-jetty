@@ -1,0 +1,9 @@
+# Local .terraform directories
+**/.terraform/*
+**/.credentials/*
+**/.rendered/*
+*.tfstate
+*.tfstate.*
+*.tfvars
+*tfplan*
+.terraform.lock.hcl
